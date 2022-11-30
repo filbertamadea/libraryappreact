@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "urlImage": "https://inc.mizanstore.com/aassets/img/com_cart/produk/covGA001938.jpg",
+      "nama": "Kambing Jantan",
+      "deskripsi": "Kambing Jantan: Sebuah Catatan Harian Pelajar Bodoh adalah buku karya Raditya Dika yang diterbitkan pada tahun 2005."
+    },
+    {
+      "id": 3,
+      "urlImage": "https://cdn.antaranews.com/cache/800x533/2014/05/20140507Untitled-1.jpg",
+      "nama": "Marmut Merah Jambu",
+      "deskripsi": "Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp.Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp.Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp.Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp.Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp.Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp.Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp.Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp.Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp."
+    },
+    {
+      "id": 4,
+      "urlImage": "https://upload.wikimedia.org/wikipedia/id/1/17/Laskar_Pelangi_film.jpg",
+      "nama": "Laskar Pelangi",
+      "deskripsi": "Laskar Pelangi adalah sebuah film drama Indonesia tahun 2008 yang disutradarai oleh Riri Riza dari skenario yang ditulis oleh Salman Aristo bersama Riri dan Mira Lesmana berdasarkan novel berjudul sama karya Andrea Hirata. "
+    },
+    {
+      "id": 5,
+      "urlImage": "https://www.gramedia.com/blog/content/images/2021/10/Kita_Pergi_Hari_Ini-cover-1-1.jpg",
+      "nama": "Kita Pergi Hari Iniiii",
+      "deskripsi": "Novel “Kita Pergi Hari Ini” merupakan karya dari Ziggy Zezsyazeoviennazabrizkie yang menceritakan tentang kehidupan keseharian Mi, Ma, dan Mo di Kota Suara dengan seorang pengasuh mereka."
+    },
+    {
+      "id": 6,
+      "urlImage": "https://upload.wikimedia.org/wikipedia/id/thumb/e/e4/Steve_Jobs_by_Walter_Isaacson.jpg/220px-Steve_Jobs_by_Walter_Isaacson.jpg",
+      "nama": "Steve Jobss",
+      "deskripsi": "Abc"
+    },
+    {
+      "id": 7,
+      "urlImage": "https://m.media-amazon.com/images/I/51aH7pmXn1L.jpg",
+      "nama": "Headdd First Android Development: A Brain-Friendly Guide Visit",
+      "deskripsi": "All Indian Reprints of O'Reilly are printed in Greyscale (B/W) What will you learn from this book? If you have an idea for a killer Android app, this .."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
